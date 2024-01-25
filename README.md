@@ -4,6 +4,9 @@
 
 This collection of Bash scripts is designed to automate various system-related tasks, including creating backups, generating system metrics reports, and backing up Oracle schemas. The project consists of three individual scripts, each serving a specific purpose.
 
+
+**Author: Stanley Chinedu Ogada**
+
 ## Prerequisites
 
 Before running the scripts, ensure the following prerequisites are met:
@@ -85,3 +88,6 @@ Run the script manually.
 - Customize the scripts and parameters based on your specific requirements.
 
 Feel free to contribute to this Bash project or raise issues if you encounter any problems. Happy scripting!
+
+
+*Note: This documentation was authored by Stanley Chinedu Ogada. If you have any questions or encounter issues, feel free to reach out for personalized assistance.*
